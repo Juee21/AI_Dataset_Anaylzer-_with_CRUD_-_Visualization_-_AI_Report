@@ -1,0 +1,41 @@
+StudentID,Subject,Grade,Percentage
+1,Math,A,92
+2,Math,B,85
+3,Math,C,78
+4,Math,D,65
+5,Math,F,50
+6,Science,A,95
+7,Science,B,88
+8,Science,C,79
+9,Science,D,62
+10,Science,F,48
+11,English,A,90
+12,English,B,82
+13,English,C,75
+14,English,D,68
+15,English,F,55
+16,History,A,93
+17,History,B,86
+18,History,C,77
+19,History,D,64
+20,History,F,49
+21,Computer Science,A,96
+22,Computer Science,B,89
+23,Computer Science,C,80
+24,Computer Science,D,61
+25,Computer Science,F,47
+26,Art,A,91
+27,Art,B,84
+28,Art,C,76
+29,Art,D,67
+30,Art,F,52
+31,Physics,A,94
+32,Physics,B,87
+33,Physics,C,74
+34,Physics,D,63
+35,Physics,F,51
+36,Chemistry,A,97
+37,Chemistry,B,83
+38,Chemistry,C,73
+39,Chemistry,D,66
+40,Chemistry,F,46

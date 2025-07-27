@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Country,Product,Quantity,Price,PurchaseDate
+C001,Alice,25,USA,Laptop,1,900,2024-06-10
+C002,Bob,30,Canada,Phone,2,600,2024-06-11
+C003,Charlie,35,UK,Headphones,3,150,2024-06-12
+C004,Diana,28,Germany,Monitor,1,250,2024-06-13
+C005,Ethan,40,Australia,Keyboard,2,120,2024-06-14
+C006,Fiona,22,USA,Laptop,1,950,2024-06-15
+C007,George,31,Canada,Phone,1,550,2024-06-16
+C008,Hannah,27,UK,Mouse,4,80,2024-06-17
+C009,Ian,36,Germany,Monitor,2,260,2024-06-18
+C010,Jane,29,Australia,Headphones,1,160,2024-06-19
